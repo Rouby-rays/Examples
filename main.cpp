@@ -1,3 +1,6 @@
 class MyClass {
-    
-}
+  public:
+
+  private:
+
+};
